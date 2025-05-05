@@ -13,8 +13,9 @@ print(pyaudio.__version__)
 
 import os
 
-text = "Hello, this is your Mac speaking!"
-os.system(f'say "{text}"')
+### Text-to-Speech Example
+# text = "Hello, this is your Mac speaking!"
+# os.system(f'say "{text}"')
 
 
 # Speech Recognition Example    
